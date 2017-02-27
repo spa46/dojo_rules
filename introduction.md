@@ -1,3 +1,6 @@
 This is an introduction
 
-Ruby
+* Ruby
+* Javascript
+* Git 
+* So on...
