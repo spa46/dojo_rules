@@ -7,5 +7,5 @@ Kill List
 * Bad variable namesi
 * trivial weekends
 * sleep late
-* not working
+* not working TT
 * why should have been fix 5
