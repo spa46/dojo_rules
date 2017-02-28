@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable namesi
 * trivial weekends
+* sleep late
