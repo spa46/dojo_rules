@@ -8,3 +8,4 @@ Kill List
 * trivial weekends
 * sleep late
 * not working
+* why
