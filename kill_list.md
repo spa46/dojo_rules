@@ -7,3 +7,4 @@ Kill List
 * Bad variable namesi
 * trivial weekends
 * sleep late
+* not working
